@@ -3,9 +3,6 @@
 An AI-powered web application that detects emotions in text using the 
 Watson NLP library. Built with Python and deployed with Flask.
 
-## 🌐 Live Demo
-👉 [View on GitHub](https://github.com/soriamaegan-dev/oaqjp-final-project-emb-ai)
-
 ## 📖 About
 This application analyzes text input and identifies the underlying emotions
 including anger, disgust, fear, joy, and sadness. It uses IBM's Watson NLP
